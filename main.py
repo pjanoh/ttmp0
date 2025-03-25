@@ -9,7 +9,7 @@ users = [
 ]
 
 for user in users:
-    if user["age"] > 80:
+    if user["age"] > 75:
         user["premium"] = True
 
 print("Финиш программы")
