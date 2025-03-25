@@ -1,3 +1,5 @@
+print("Старт программы")
+
 users = [
     {"nickname": "Alex", "age": 50, "rating": 4.3},
     {"nickname": "Yulia", "age": 26, "rating": 3.2},
@@ -6,3 +8,4 @@ users = [
     {"nickname": "Sasha", "age": 84, "rating": 1.2}
 ]
 
+print("Финиш программы")
