@@ -6,3 +6,6 @@ users = [
     {"nickname": "Sasha", "age": 84, "rating": 1.2}
 ]
 
+for user in users:
+    if user["age"] > 80:
+        user["premium"] = True
